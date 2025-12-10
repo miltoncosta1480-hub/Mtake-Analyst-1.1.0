@@ -1,0 +1,5 @@
+{
+  "name": " Mtake Analyst 1.1.0",
+  "description": "Um painel de trading inteligente que utiliza IA para analisar correlações de mercado em tempo real e gerar sinais de compra e venda para o contrato futuro do Ibovespa (WINFUT).",
+  "requestFramePermissions": []
+}
